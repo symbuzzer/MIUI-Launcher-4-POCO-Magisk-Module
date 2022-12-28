@@ -1,9 +1,11 @@
 # MIUI Launcher 4 POCO Magisk Module
 Patch for using MIUI Launcher on POCO devices  
 !!! It is only for POCO devices !!!  
+!!! Only works when Fullscreen gestures disabled from Settings > Additional settings > Full screen view !!!  
   
 HOW TO INSTALL:  
--Uninstall Poco Launcher update from Settings > Applications > Manage Applications if exists  
+-Disable Fullscreen gestures from Settings > Additional settings > Full screen view  
+-Uninstall Poco Launcher update from Settings > Applications > Manage applications if exists  
 -Download latest zip file from [Releases](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/releases)  
 -Install zip file from Magisk app on your phone and reboot  
   

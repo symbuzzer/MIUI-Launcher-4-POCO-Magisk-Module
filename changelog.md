@@ -1,3 +1,6 @@
+v1.0.3  
+-Hided Poco launcher for fixing some issues  
+  
 v1.0.2  
 -Some bugfixes  
   

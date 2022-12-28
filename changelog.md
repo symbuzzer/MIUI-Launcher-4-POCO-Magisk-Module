@@ -1,5 +1,5 @@
 v1.0.6  
--Hided Poco launcher for fixing some issues, attempt 3  
+-Hided Poco launcher for fixing some issues, attempt 4  
   
 v1.0.5  
 -Hided Poco launcher for fixing some issues, attempt 3  

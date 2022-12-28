@@ -1,3 +1,6 @@
+v2.0.1  
+-Fixed Settings > Homescreen not opening bug  
+  
 v2.0.0  
 -Rewritten from stratch  
   

@@ -1,7 +1,7 @@
 id=MIUILauncher4POCO
 name=MIUILauncher4POCO
-version=v1.0.2
-versionCode=102
+version=v1.0.3
+versionCode=103
 author=Ali Beyaz (avalibeyaz.com/github)
 description=Patch for using MIUI Launcher on POCO devices
 updateJson=https://raw.githubusercontent.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/main/update.json

@@ -10,4 +10,5 @@ HOW TO USE:
 NOTES:   
 -Should work MIUI roms included 14, 13 and 12  
 -Device should be rooted via Magisk  
+-MIUI Launcher is updateable via apk installation and somehow  
 -Use at your own risk  

@@ -11,6 +11,9 @@ HOW TO UNINSTALL:
 -Uninstall MIUI Launcher update from Settings > Applications > Manage Applications if exists  
 -Uninstall module from Magisk app on your phone and reboot  
   
+KNOWN ISSUES:  
+-You should turn of Fullscreen gestures from Settings > Additional settings > Fullscreen view when switching between MIUI Launcher and Poco Launcher and reboot  
+  
 NOTES:   
 -Tested on POCO X3 GT with MIUI Global 13.0.7.0  
 -Should work MIUI roms included 14, 13 and 12  

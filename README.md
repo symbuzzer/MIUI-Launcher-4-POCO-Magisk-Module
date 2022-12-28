@@ -1,5 +1,7 @@
 # MIUI Launcher 4 POCO Magisk Module
 Patch for using MIUI Launcher on POCO devices  
+Also adds Basic Mode feature  
+  
 !!! It is only for POCO devices !!!  
   
 HOW TO INSTALL:  

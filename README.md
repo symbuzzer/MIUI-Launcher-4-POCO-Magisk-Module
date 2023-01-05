@@ -17,5 +17,5 @@ NOTES:
 -Tested on POCO X3 GT with MIUI Global 13.0.7.0  
 -Should work MIUI roms included 14, 13 and 12  
 -Device should be rooted via Magisk  
--MIUI Launcher is updateable via apk installation and somehow  
+-MIUI Launcher is updateable via apk installation and somehow (not sure, need to confirm)  
 -Use at your own risk  

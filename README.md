@@ -2,7 +2,8 @@
 Patch for using MIUI Launcher on POCO devices  
 Also adds Basic Mode feature  
   
-!!! It is only for POCO devices !!!  
+!!! It is only for POCO devices with MIUI 12 and 13 !!!  
+!!! It causes bootloop on MIUI 14 !!!  
   
 HOW TO INSTALL:  
 -Uninstall Poco Launcher update from Settings > Applications > Manage applications if exists  

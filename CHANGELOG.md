@@ -1,3 +1,6 @@
+## v2.0.3  
+- Added KernelSU support     
+  
 ## v2.0.2  
 - Added create&release workflow    
   

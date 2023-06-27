@@ -1,4 +1,4 @@
-# MIUI Launcher 4 POCO Magisk Module
+# MIUI Launcher 4 POCO Magisk and KernelSU Module
 Patch for using MIUI Launcher on POCO devices  
 Also adds Basic Mode feature  
   
@@ -8,15 +8,15 @@ Also adds Basic Mode feature
 HOW TO INSTALL:  
 -Uninstall Poco Launcher update from Settings > Applications > Manage applications if exists  
 -Download latest zip file from [Releases](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/releases)  
--Install zip file from Magisk app on your phone and reboot  
+-Install zip file from Magisk or KernelSU app on your phone and reboot  
   
 HOW TO UNINSTALL:  
 -Uninstall MIUI Launcher update from Settings > Applications > Manage Applications if exists  
--Uninstall module from Magisk app on your phone and reboot  
+-Uninstall module from Magisk or KernelSU app on your phone and reboot  
     
 NOTES:   
 -Tested and actively used on POCO X3 GT with MIUI Global 13.0.7.0  
 -Should work MIUI roms included 14, 13 and 12  
--Device should be rooted via Magisk  
+-Device should be rooted via Magisk or KernelSU  
 -MIUI Launcher is updateable via apk installation and somehow (not sure, need to confirm)  
 -Use at your own risk  
